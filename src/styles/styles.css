@@ -1,0 +1,7 @@
+@import "./settings";
+@import "./components/navigation.css";
+@import "./pages/contact.css";
+@import "./pages/home.css";
+@import "./pages/knowledges.css";
+@import "./pages/notFound.css";
+@import "./pages/portFolio.css";
